@@ -60,3 +60,32 @@ graph TB
     
     style C fill:#e1f5fe
     style D fill:#f3e5f5
+
+## 🛠️ Tech Stack
+
+### Backend
+- **Go 1.21+** - High-performance API server
+- **Gin Framework** - HTTP web framework
+- **GORM** - Database ORM
+- **PostgreSQL** - Primary database
+- **Rafiki Money** - Interledger connector
+
+### Frontend
+- **Next.js 14** - React framework
+- **TypeScript** - Type safety
+- **Tailwind CSS** - Styling
+- **Chart.js** - Analytics and metrics
+
+### Infrastructure
+- **Docker** - Containerization
+- **Kubernetes** - Orchestration
+- **Prometheus** - Monitoring
+- **Grafana** - Dashboards
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Go 1.21+
+- PostgreSQL 14+
+- Node.js 18+
+- Docker (optional)
